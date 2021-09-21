@@ -12,3 +12,5 @@ Mit [wix.com](wix.com) ist es sehr einfach eine Webseite zu erstellen. Wir haben
 ![](screen.png)
 
 Wir haben unseren Kunden mit geteilt , dass wir in den nächsten drei Wochen eine Pause machen werden, da wir Ferien haben.
+
+Ausserdem haben wir mit unserem Projektablauf gestartet.
